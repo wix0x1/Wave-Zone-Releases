@@ -1,10 +1,10 @@
 {
-  "versionCode": 1,
+  "versionCode": 8,
   "versionName": "1.0.0",
-  "releaseNotes": "WaveZone Release v1.0.0 (Build v1.0.0-b6). High-speed multi-threaded private downloads, offline media player, and biometric vault.",
-  "downloadUrl": "https://github.com/wix0x1/Wave-Zone-Releases/releases/download/v1.0.0-b6/app-universal-release.apk",
-  "sha256": "036467d49d5d07d48a413e2ca0afae9883ad5d93ae36d09d29f3c6c453e080d9",
+  "releaseNotes": "WaveZone Release v1.0.0 (Build v1.0.0-b7). High-speed multi-threaded private downloads, offline media player, and biometric vault.",
+  "downloadUrl": "https://github.com/wix0x1/Wave-Zone-Releases/releases/download/v1.0.0-b7/app-universal-release.apk",
+  "sha256": "dbf8b6375f263626ee10734dd18e6e26a3b5c8a307f4ade39af33ee47b891879",
   "minSdk": 21,
-  "apkSizeBytes": 5978756,
-  "signature": "MEQCIEcyyXAnt0LpMYIOQ/9jlciVP9YwjODnv8MJ2VSzgaXUAiBhacCGcvLNjjPmWuroYt9xDXLYmpQ5eY+lTvXpyCniqA=="
+  "apkSizeBytes": 5984237,
+  "signature": "MEUCIEcnhxL+tUbKB9DHo2yDUR8XVPeNgWVPI8tuWsEdH51ZAiEAzATuzZxmqiY0MWbZW92UZHovlZxavv7OI0VlsVc6ZJk="
 }
