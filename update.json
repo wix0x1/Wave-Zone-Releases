@@ -1,10 +1,10 @@
 {
-  "versionCode": 135,
-  "versionName": "1.2.35",
-  "releaseNotes": "WaveZone Release v1.2.35 (Build v1.2.35). High-speed update downloads, smooth YouTube browsing with open comment safety, fast resilient media downloads, detailed weather, and Brave-style omnibox.",
-  "downloadUrl": "https://github.com/wix0x1/Wave-Zone-Releases/releases/download/v1.2.35/app-universal-release.apk",
-  "sha256": "bf9d79072143be0b6cdc236143a839a925fe08ab9098940103b2cd65fe4c8282",
+  "versionCode": 136,
+  "versionName": "1.2.36",
+  "releaseNotes": "WaveZone Release v1.2.36 (Build v1.2.36). High-speed update downloads, smooth YouTube browsing with open comment safety, fast resilient media downloads, detailed weather, and Brave-style omnibox.",
+  "downloadUrl": "https://github.com/wix0x1/Wave-Zone-Releases/releases/download/v1.2.36/app-universal-release.apk",
+  "sha256": "8223a6e219e37ee8b43ce90d20b055f952ccbcddb446408d950e4700b8dcb3be",
   "minSdk": 21,
-  "apkSizeBytes": 4938780,
-  "signature": "MEUCIEYMafdXe7yAxbQSvLJOT8rdWDDUzhlhw9JSVKbGi2gXAiEA4OqXmEgpzFxtw9yl3TQOv/dOJxcoIKkeKF1MGYqapv8="
+  "apkSizeBytes": 4939146,
+  "signature": "MEUCIGuRFQ2jjgYwtfbCraCEgWzuRi8azvJiZgynzHKEh8BuAiEAyjXd1/Zj5JHj13QHJhbRC2XaVspyW8tfY7j7+7n3whw="
 }
